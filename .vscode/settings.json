@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "audioCues.terminalQuickFix": "on",
+    "files.associations": {
+        "conio.h": "c"
+    }
+}
